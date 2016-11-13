@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Zombie_Survival.MonsterProperties[]">
+    
+  <Item>
+    <name>zombie1</name>
+    <health>50</health>
+    <speed>3</speed>
+    <damage>1</damage>
+  </Item>
+  
+
+  </Asset>
+</XnaContent>
